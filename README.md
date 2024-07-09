@@ -1,5 +1,6 @@
 # Hansaja - Personal portfolio
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/287ea21e-6d22-481a-819d-b5bfc990fa88/deploy-status?branch=main)](https://app.netlify.com/sites/nilana-hansaja/deploys)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Hansajaa/Portfolio)
 ![GitHub stars](https://img.shields.io/github/stars/Hansajaa/Portfolio?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Hansajaa/Portfolio?style=social)
