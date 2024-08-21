@@ -621,6 +621,14 @@ main {
   margin-bottom: 20px;
 }
 
+.testimonials-designation {
+  color: var(--white-2);
+  font-size: var(--fs-8);
+  margin-left: 95px;
+  margin-top: -5px;
+  margin-bottom: 20px;
+}
+
 .testimonials-list {
   display: flex;
   justify-content: flex-start;
@@ -773,6 +781,13 @@ main {
 
 .modal-title {
   margin-bottom: 4px;
+}
+
+.modal-designation {
+  color: var(--white-2);
+  font-size: var(--fs-8);
+  margin-top: -4px;
+  margin-bottom: 20px;
 }
 
 .modal-content time {
