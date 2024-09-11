@@ -1416,6 +1416,15 @@ textarea.form-input::-webkit-resizer {
     min-width: calc(33.33% - 10px);
   }
 
+  /* Testominals */
+  .testimonials-designation {
+    color: var(--white-2);
+    font-size: var(--fs-8);
+    margin-left: 0px;
+    margin-top: -5px;
+    margin-bottom: 20px;
+  }
+
   /**
    * #PORTFOLIO, BLOG 
    */
@@ -1624,6 +1633,15 @@ textarea.form-input::-webkit-resizer {
   .testimonials-item-title {
     margin-bottom: 10px;
     margin-left: 95px;
+  }
+
+  /* Testominals */
+  .testimonials-designation {
+    color: var(--white-2);
+    font-size: var(--fs-8);
+    margin-left: 94px;
+    margin-top: -5px;
+    margin-bottom: 20px;
   }
 
   .testimonials-text {
