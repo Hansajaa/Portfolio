@@ -87,6 +87,7 @@
   --fs-6: 14px;
   --fs-7: 13px;
   --fs-8: 11px;
+  --fs-9: 9px;
 
   /* font-weight */
   --fw-300: 300;
@@ -1414,6 +1415,32 @@ textarea.form-input::-webkit-resizer {
  */
 
 @media (min-width: 250px) {
+    /*
+    sidebar
+    */
+
+    .sidebar.active {
+      max-height: 765px;
+    }
+
+    .info-content .title {
+      color: var(--white-1);
+      background: var(--onyx);
+      font-size: var(--fs-9);
+      font-weight: var(--fw-300);
+      width: max-content;
+      padding: 3px 5px;
+      border-radius: 8px;
+    }
+
+    .copyrights{
+      color: gray;
+      font-size: 80%;
+      margin-top: 14px;
+      text-align: left;
+      margin-left: 3%;
+    }
+
   /**
    * client
    */
